@@ -1,90 +1,44 @@
-<!-- ========================================================= -->
-<!--                   PRUDVI SAI YADAV                         -->
-<!-- ========================================================= -->
-
 <h1 align="center">Hi 👋, I'm Prudvi Sai Yadav</h1>
 
 <h3 align="center">
-Aspiring Software Engineer • AI Enthusiast • Python Developer
+Aspiring Software Engineer | AI Enthusiast | Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Python+Developer;Full+Stack+Learner;Machine+Learning+Explorer;Always+Learning+New+Things+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=narlakondaprudviyadav&label=Profile+Views&color=0E75B6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/narlakondaprudviyadav?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/narlakondaprudviyadav?style=for-the-badge&logo=github"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Enthusiast;Python+Developer;Full+Stack+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 I'm a **B.Tech Computer Science & Engineering** student at **Vardhaman College of Engineering**.
+🎓 B.Tech Computer Science & Engineering student at **Vardhaman College of Engineering**
 
-💡 I enjoy building **AI-powered applications**, developing **Python projects**, and creating **full-stack web applications** that solve practical problems.
+💻 Passionate about **Artificial Intelligence, Python, and Full Stack Development**
 
-🚀 I believe in learning by building projects and continuously improving my programming and problem-solving skills.
+🚀 I enjoy building real-world projects and continuously improving my programming skills.
 
-🌱 Currently focusing on **Data Structures & Algorithms, Machine Learning, Full Stack Development, and Open Source**.
+🌱 Currently learning **Data Structures & Algorithms, Machine Learning, Flask, and SQL**
 
-🎯 My long-term goal is to become a **Software Engineer** and build products that create a positive impact.
-
----
-
-# 🌱 Currently Learning
-
-- 🐍 Advanced Python
-- 🌐 Flask & REST APIs
-- 📚 Data Structures & Algorithms
-- 🤖 Machine Learning
-- 🗄️ SQL & Database Design
-- 🔧 Git & GitHub
+🎯 Aspiring Software Engineer
 
 ---
 
-# 💡 Interests
+## 🌱 Currently Learning
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Full Stack Development
-- 📊 Data Analytics
-- 🌍 Open Source
-- 📱 Internet of Things (IoT)
-
----
-
-# 📌 Quick Facts
-
-🎓 Computer Science Student
-
-💻 Python Developer
-
-🤖 AI Enthusiast
-
-🌐 Full Stack Learner
-
-🚀 Project-Based Learner
-
-📍 Telangana, India
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Flask
+- SQL
+- Git & GitHub
 
 ---
+## 🌐 Connect With Me
 
-> ### 💬 "The best way to learn programming is by building real-world projects."
+<p align="left">
 
----
-<!-- ========================================================= -->
-<!--                 CONNECT WITH ME                           -->
-<!-- ========================================================= -->
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/prudvi-sai-yadav/" target="_blank">
+<a href="https://www.linkedin.com/in/prudvi-sai-yadav/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -100,29 +54,29 @@ Aspiring Software Engineer • AI Enthusiast • Python Developer
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,bootstrap,flask,mysql,git,github,vscode,arduino&perline=7"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=narlakondaprudviyadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narlakondaprudviyadav&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git,github,vscode" />
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=narlakondaprudviyadav&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narlakondaprudviyadav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -131,220 +85,101 @@ Aspiring Software Engineer • AI Enthusiast • Python Developer
 </p>
 
 ---
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=narlakondaprudviyadav&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# ⚙️ Development Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
----
-<!-- ========================================================= -->
-<!--                 FEATURED PROJECTS                         -->
-<!-- ========================================================= -->
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
+## 🚀 Featured Projects
 
 ### 🤖 AutoQuizzer
+AI-powered quiz generator that creates quizzes from PDF documents.
 
-AI-powered web application that generates quizzes from PDF documents.
+**Tech Stack:** Python, HTML, CSS
 
-**Key Features**
-- 📄 PDF Upload
-- 🤖 AI Question Generation
-- 📊 Quiz Evaluation
-- 🎯 Difficulty Selection
+🔗 https://github.com/narlakondaprudviyadav/AutoQuizzer
 
-**Tech Stack**
+---
 
-`Python` `Flask` `HTML` `CSS` `SQLite`
+### 🌐 AI Platform
+A learning platform with AI-powered features for students.
 
-<br>
+**Tech Stack:** Python, HTML, CSS, JavaScript
 
-<a href="https://github.com/narlakondaprudviyadav/AutoQuizzer">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 https://github.com/narlakondaprudviyadav/AIPlatform
 
-</td>
-
-<td width="50%">
-
-### 🌐 AI Learning Platform
-
-An AI-powered learning platform that recommends personalized study resources.
-
-**Key Features**
-- 🧠 Smart Recommendations
-- 📈 Progress Tracking
-- 📚 Learning Dashboard
-- 💻 Responsive UI
-
-**Tech Stack**
-
-`Python` `HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/narlakondaprudviyadav/AIPlatform">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ### 📡 RFID Attendance System
-
 Smart attendance system using Arduino and RFID technology.
 
-**Key Features**
-- 📌 RFID Authentication
-- 📟 LCD Display
-- 📊 Attendance Tracking
-- ⚡ Fast Scanning
+**Tech Stack:** Arduino, C++
 
-**Tech Stack**
-
-`Arduino` `C++`
-
-</td>
-
-<td width="50%">
+---
 
 ### 📊 Shopping Behavior Analysis
+Customer behavior analysis using Python for data cleaning and visualization.
 
-Customer behavior analysis using Python and data visualization libraries.
-
-**Key Features**
-- 📈 Data Visualization
-- 📉 Trend Analysis
-- 📊 Customer Insights
-- 🧹 Data Cleaning
-
-**Tech Stack**
-
-`Python` `Pandas` `Matplotlib`
-
-</td>
-
-</tr>
-
-</table>
+**Tech Stack:** Python, Pandas, Matplotlib
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
-- Oracle
-- Salesforce
-- MuleSoft
-- SAP
-- Python Programming
-- Java Programming
-- SQL
-- Internet of Things (IoT)
-- NxtWave CCBP 4.0
-
----
-
-# 💼 What I'm Working On
-
-- 🤖 Building AI-powered applications
-- 🌐 Improving Full Stack Development skills
-- 📚 Solving Data Structures & Algorithms problems
-- 🧠 Learning Machine Learning fundamentals
-- 🌍 Exploring Open Source Contributions
+- 🏆 Oracle SQL
+- 🏆 Salesforce
+- 🏆 MuleSoft
+- 🏆 SAP
+- 🏆 Python Programming
+- 🏆 Java Programming
+- 🏆 SQL
+- 🏆 Internet of Things (IoT)
+- 🏆 NxtWave CCBP 4.0
 
 ---
 
-# 📈 GitHub Highlights
-
-- 🚀 Multiple academic and personal projects
-- 💻 Strong foundation in Python, Java, C++, HTML, CSS & JavaScript
-- 🤖 Hands-on experience with AI, IoT and Data Analytics
-- 🌱 Passionate about continuous learning
-
----
-<!-- ========================================================= -->
-<!--                   CONTACT & FOOTER                        -->
-<!-- ========================================================= -->
-
-# 📚 Currently Learning
-
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- 📚 Data Structures & Algorithms
-- ☁️ Cloud Computing Basics
-- 🔗 REST APIs
-
----
-
-# 🤝 Open to Collaborate
-
-I'm always interested in collaborating on projects related to:
+## 📚 Areas of Interest
 
 - 🤖 Artificial Intelligence
-- 🌐 Full Stack Web Development
+- 💻 Software Development
+- 🌐 Full Stack Development
 - 📊 Data Analytics
-- 📱 IoT Applications
-- 🚀 Open Source Projects
+- 📱 Internet of Things (IoT)
 
 ---
 
-# 📫 Contact Me
+## 🎯 Current Focus
 
-<p align="center">
+- 📚 Strengthening Data Structures & Algorithms
+- 🤖 Learning Machine Learning
+- 🌐 Building Full Stack Projects
+- 🚀 Improving Problem Solving Skills
+
+---
+## 📫 Contact Me
+
+<p align="left">
 
 <a href="mailto:narlakondaprudviyadav@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/narlakondaprudviyadav">
-<img src="https://img.shields.io/badge/GitHub-narlakondaprudviyadav-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prudvi-sai-yadav/">
-<img src="https://img.shields.io/badge/LinkedIn-Prudvi_Sai_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/narlakondaprudviyadav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
+## 🤝 Open to Collaborate
 
-<div align="center">
+I'm open to collaborating on projects related to:
 
-> **"Stay curious. Keep learning. Build projects that make an impact." 🚀**
-
-</div>
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+- 💻 Python Development
+- 📊 Data Analytics
+- 🚀 Open Source Projects
 
 ---
 
@@ -352,10 +187,8 @@ I'm always interested in collaborating on projects related to:
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+*"Code • Learn • Build • Improve"* 🚀
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
