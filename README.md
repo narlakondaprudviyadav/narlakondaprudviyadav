@@ -58,7 +58,7 @@ Aspiring Software Engineer | AI Enthusiast | Python Developer
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode" />
 
 </p>
 
