@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prudvi Sai Yadav</h1>
 
-<!--
-**narlakondaprudviyadav/narlakondaprudviyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Software Engineer | AI & Python Developer | Full Stack Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building AI-powered applications, solving real-world problems, and continuously learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 🌱 Currently learning Python, Flask, AI, DSA
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Building Full Stack Projects
+- 🚀 Goal: Become a Software Engineer
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
+- GitHub
+- Flask
+- Arduino
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AutoQuizzer
+AI-powered quiz generation platform from PDF.
+
+### 🔹 AI Learning Platform
+Personalized learning platform built using AI.
+
+### 🔹 RFID Attendance System
+Arduino-based attendance management system.
+
+### 🔹 CODSOFT Python Projects
+Collection of Python mini projects.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: narlakondaprudviyadav@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/prudvi-sai-yadav
+
+---
+
+⭐ Thanks for visiting my profile!
