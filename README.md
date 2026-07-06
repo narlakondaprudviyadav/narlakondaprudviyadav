@@ -112,15 +112,10 @@ Customer behavior analysis using Python for data cleaning and visualization.
 
 ## 🏅 Certifications
 
-- 🏆 Oracle SQL
-- 🏆 Salesforce
-- 🏆 MuleSoft
-- 🏆 SAP
-- 🏆 Python Programming
-- 🏆 Java Programming
-- 🏆 SQL
-- 🏆 Internet of Things (IoT)
-- 🏆 NxtWave CCBP 4.0
+
+- 🏆NPTEL – Programming in Java
+• 🏆NxtWave – Programming Fundamentals
+• 🏆NxtWave – Static Website Development
 
 ---
 
