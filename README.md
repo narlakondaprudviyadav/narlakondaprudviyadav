@@ -65,10 +65,6 @@ Aspiring Software Engineer | AI Enthusiast | Python Developer
 ---
 
 
----
-
-
----
 ## 🚀 Featured Projects
 
 ### 🤖 AutoQuizzer
