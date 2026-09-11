@@ -67,13 +67,6 @@ Aspiring Software Engineer | AI Enthusiast | Python Developer
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=narlakondaprudviyadav&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 ## 🚀 Featured Projects
